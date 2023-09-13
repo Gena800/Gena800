@@ -18,9 +18,21 @@
 </div>
 
 
-## Сертификаты полученные в онлайн школе Netology
-![avtoTest.png](certificates%2FavtoTest.png)
-![git.png](certificates%2Fgit.png)
-![java.png](certificates%2Fjava.png)
-![manual.png](certificates%2Fmanual.png)
+<div align="center">
+<h2>Сертификаты полученные в онлайн школе Netology</h2>
+</div>
+
+
+
+
+
+<div align="center">
+ <img src="certificates%2FavtoTest.png" title="Java" alt="Java" width="460" />&nbsp;
+   <img src="certificates%2Fgit.png"  title="CSS3" alt="CSS" width="460" />&nbsp;
+  <img src="certificates%2Fjava.png" title="HTML5" alt="HTML" width="460" />&nbsp;
+  <img src="certificates%2Fmanual.png" title="Jira" alt="Jira" width="460" />&nbsp;
+</div>
+
+
+
 
