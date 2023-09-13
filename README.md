@@ -27,10 +27,10 @@
 
 
 <div align="center">
- <img src="certificates%2FavtoTest.png" title="Java" alt="Java" width="460" />&nbsp;
-   <img src="certificates%2Fgit.png"  title="CSS3" alt="CSS" width="460" />&nbsp;
-  <img src="certificates%2Fjava.png" title="HTML5" alt="HTML" width="460" />&nbsp;
-  <img src="certificates%2Fmanual.png" title="Jira" alt="Jira" width="460" />&nbsp;
+ <img src="certificates%2FavtoTest.png" title="avtoTest" alt="avtoTest" width="460" />&nbsp;
+   <img src="certificates%2Fgit.png"  title="git" alt="git" width="460" />&nbsp;
+  <img src="certificates%2Fjava.png" title="java" alt="java" width="460" />&nbsp;
+  <img src="certificates%2Fmanual.png" title="manual" alt="manual" width="460" />&nbsp;
 </div>
 
 
